@@ -28,7 +28,9 @@ Proyek ini dibangun dengan tujuan sebagai pembelajaran. Disamping hal tersebut, 
 Proyek ini dikerjakan oleh kelompok kami atas nama:
 
 Abdul Walid            IST2104006
+
 Abd. Mufid             IST2104...
+
 Deni Sainuri Alimami   IST2104...
 
 Proyek ini 
