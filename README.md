@@ -26,12 +26,12 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Proyek ini dibangun dengan tujuan sebagai pembelajaran. Disamping hal tersebut, proyek ini juga diajukan sebagai tugas UAS Materi Web Programming Institut Sains dan Teknologi Annuqayah Prodi Teknologi Informasi Semester V.
 
 Proyek ini dikerjakan oleh kelompok kami atas nama:
+
 Abdul Walid            IST2104006
-Abd. Mufid             IST2104..
-Deni Sainuri Alimami   IST2104..
+Abd. Mufid             IST2104...
+Deni Sainuri Alimami   IST2104...
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
+Proyek ini 
 ## Laravel Sponsors
 
 
