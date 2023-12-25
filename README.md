@@ -23,17 +23,16 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## About the Project
 
-Proyek ini dibangun dengan tujuan sebagai pembelajaran. Disamping hal tersebut, proyek ini juga diajukan sebagai tugas UAS Materi Web Programming Institut Sains dan Teknologi Annuqayah Prodi Teknologi Informasi Semester V.
-
+<p>
+    Proyek ini dibangun dengan tujuan sebagai pembelajaran. Disamping hal tersebut, proyek ini juga diajukan sebagai tugas UAS Materi Web Programming Institut Sains dan Teknologi Annuqayah Prodi Teknologi Informasi Semester V. </p>
+    
 Proyek ini dikerjakan oleh kelompok kami atas nama:
+<ul>
+    <li>Abdul Walid            IST2104006</li>
+    <li>Abd. Mufid             IST2104...</li>
+    <li>Deni Sainuri Alimami   IST2104...</li>
+</ul>
 
-Abdul Walid            IST2104006
-
-Abd. Mufid             IST2104...
-
-Deni Sainuri Alimami   IST2104...
-
-Proyek ini 
 ## Laravel Sponsors
 
 
