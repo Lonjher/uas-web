@@ -31,6 +31,7 @@ Proyek ini dikerjakan oleh kelompok kami atas nama:
     <li>Abdul Walid            IST2104006</li>
     <li>Abd. Mufid             IST2104...</li>
     <li>Deni Sainuri Alimami   IST2104...</li>
+    <li>A Rahman Almahfudhi    IST2104...</li>
 </ul>
 
 ## Laravel Sponsors
