@@ -29,9 +29,9 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Proyek ini dikerjakan oleh kelompok kami atas nama:
 <ul>
     <li>Abdul Walid            IST2104006</li>
-    <li>Abd. Mufid             IST2104...</li>
-    <li>Deni Sainuri Alimami   IST2104...</li>
-    <li>A Rahman Almahfudhi    IST2104...</li>
+    <li>Abd. Mufid             IST21040..</li>
+    <li>Deni Sainuri Alimami   IST2104065</li>
+    <li>A Rahman Almahfudhi    IST2104001</li>
 </ul>
 
 ## Laravel Sponsors
